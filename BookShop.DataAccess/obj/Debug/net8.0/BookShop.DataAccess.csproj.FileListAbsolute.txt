@@ -1,0 +1,17 @@
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\bin\Debug\net8.0\BookShop.DataAccess.deps.json
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\bin\Debug\net8.0\BookShop.DataAccess.dll
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\bin\Debug\net8.0\BookShop.DataAccess.pdb
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\bin\Debug\net8.0\BookShop.Models.dll
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\bin\Debug\net8.0\BookShop.Models.pdb
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\obj\Debug\net8.0\BookShop.DataAccess.csproj.AssemblyReference.cache
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\obj\Debug\net8.0\BookShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\obj\Debug\net8.0\BookShop.DataAccess.AssemblyInfoInputs.cache
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\obj\Debug\net8.0\BookShop.DataAccess.AssemblyInfo.cs
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\obj\Debug\net8.0\BookShop.DataAccess.csproj.CoreCompileInputs.cache
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\obj\Debug\net8.0\BookShop.DataAccess.csproj.CopyComplete
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\obj\Debug\net8.0\BookShop.DataAccess.dll
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\obj\Debug\net8.0\refint\BookShop.DataAccess.dll
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\obj\Debug\net8.0\BookShop.DataAccess.pdb
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\obj\Debug\net8.0\ref\BookShop.DataAccess.dll
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\bin\Debug\net8.0\BookShop.DataAccess.runtimeconfig.json
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.DataAccess\obj\Debug\net8.0\BookShop.DataAccess.genruntimeconfig.cache

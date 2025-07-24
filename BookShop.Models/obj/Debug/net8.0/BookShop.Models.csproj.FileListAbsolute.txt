@@ -1,0 +1,12 @@
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\bin\Debug\net8.0\BookShop.Models.deps.json
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\bin\Debug\net8.0\BookShop.Models.dll
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\bin\Debug\net8.0\BookShop.Models.pdb
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\obj\Debug\net8.0\BookShop.Models.csproj.AssemblyReference.cache
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\obj\Debug\net8.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\obj\Debug\net8.0\BookShop.Models.AssemblyInfoInputs.cache
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\obj\Debug\net8.0\BookShop.Models.AssemblyInfo.cs
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\obj\Debug\net8.0\BookShop.Models.csproj.CoreCompileInputs.cache
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\obj\Debug\net8.0\BookShop.Models.dll
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\obj\Debug\net8.0\refint\BookShop.Models.dll
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\obj\Debug\net8.0\BookShop.Models.pdb
+E:\University\Hackathon Internship\Task 4 - BookShop\BookShop.Models\obj\Debug\net8.0\ref\BookShop.Models.dll

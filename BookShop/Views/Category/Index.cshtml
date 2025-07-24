@@ -1,0 +1,24 @@
+﻿@model IEnumerable<BookShop.Models.Entities.Category>
+
+<h2>All Categories</h2>
+
+<a asp-controller="Category" asp-action="Create" class="btn btn-primary">Create New Category</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Category Name</th>
+            <th>Category Order</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cat in Model)
+        {
+            <tr>
+                <td>@cat.CatName</td>
+                <td>@cat.CatOrder</td>
+            </tr>
+        }
+    </tbody>
+</table>
